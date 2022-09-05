@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Luca Schreiner 
 
 # Your name to show in the footer
 author: Luca Schreiner
@@ -22,7 +22,7 @@ author: Luca Schreiner
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Converting init.vim to init.lua : "https://www.youtube.com/watch?v=BoDU6QOmEOY"
 
 ################
 # --- Logo --- #
