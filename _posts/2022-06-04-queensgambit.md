@@ -16,7 +16,7 @@ So, as you guys know from my about page, I love playing chess and i'm playing mo
 
 To start the Queen's Gambit, White moves his pawn forward on ``d4``
 
-![Pawn](/assets/img/chess1.jpg){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/desk2-3.svg){: .mx-auto.d-block :}
 
 Then Black responds by moving his pawn forward on ``d5``.
 After that White counters by moving his pawn to ``c4``
@@ -35,17 +35,17 @@ Then the white bishop attacks the black pawn. So, despite its name, the Queen's 
 White can just free up his bishop. And if black is still gonna try his best to protect this pawn the game would be going like this..
 
 ![Pawn](/assets/img/chess5.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess6.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess7.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess8.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess9.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess10.png){: .mx-auto.d-block :}
-<br>
+
 ![Pawn](/assets/img/chess11.png){: .mx-auto.d-block :}
 
 And now white can win a free rook, which is very good. 
