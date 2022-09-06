@@ -16,7 +16,7 @@ So, as you guys know from my about page, I love playing chess and i'm playing mo
 
 To start the Queen's Gambit, White moves his pawn forward on ``d4``
 
-![Pawn](/assets/img/chess1.png){: .mx-auto.d-block :}
+![Pawn](/assets/img/chess1.jpg){: .mx-auto.d-block :}
 
 Then Black responds by moving his pawn forward on ``d5``.
 After that White counters by moving his pawn to ``c4``
