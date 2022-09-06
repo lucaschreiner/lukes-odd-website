@@ -21,32 +21,32 @@ To start the Queen's Gambit, White moves his pawn forward on ``d4``
 Then Black responds by moving his pawn forward on ``d5``.
 After that White counters by moving his pawn to ``c4``
 
-![Pawn](/assets/img/chess2.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/desk2-5.svg){: .mx-auto.d-block :}
 
 Now there's two options either black takes the pawn on ``c4`` or decline the gambit and push his pawn on ``e6`` or ``Nf6``.
 The idea behind the Queen's Gambit is: White is trying to exchange his wing pawn (the c-pawn) for a centre pawn (Black's d-pawn). Let's say black accepts the gambit and takes the pawn on ``c4``. If that happens white can either move it's (e-pawn) to ``e3`` or ``e4``.
 
-![Pawn](/assets/img/chess3.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/e4.svg){: .mx-auto.d-block :}
 
 Then the white bishop attacks the black pawn. So, despite its name, the Queen's Gambit is not a true gambit, since Black cannot hold the pawn very long. Let me show you...
 
-![Pawn](/assets/img/chess4.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/e3.svg){: .mx-auto.d-block :}
 
 White can just free up his bishop. And if black is still gonna try his best to protect this pawn the game would be going like this..
 
-![Pawn](/assets/img/chess5.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/b5.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess6.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/a4.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess7.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/c6.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess8.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/bxc5.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess9.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/cxb5.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess10.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/qf3.svg){: .mx-auto.d-block :}
 
-![Pawn](/assets/img/chess11.png){: .mx-auto.d-block :}
+![Pawn](https://simplifychess.com/queens-gambit-frame/img/trying-to-keep-pawn/qxa8.svg){: .mx-auto.d-block :}
 
 And now white can win a free rook, which is very good. 
 So not everyone does play this way the queen's gambit and not every does accept it, that's why the queen's gambit opening is divided into three major categories based on Black's response.
